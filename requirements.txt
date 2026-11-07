@@ -1,0 +1,8 @@
+# The notebook installs these itself in Colab. This file is only for running it somewhere else.
+unsloth
+transformers
+gTTS
+soundfile
+pandas
+numpy
+# ffmpeg must also be installed on the system
